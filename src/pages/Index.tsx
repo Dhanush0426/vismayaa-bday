@@ -248,7 +248,7 @@ const Index = () => {
               Happiest birthday my dear <s className="text-muted-foreground">best friend</s>…
             </p>
             <p>
-              ohh I'm sorry 😄 I know you don't like "best friends"…
+              ohh I'm sorry 😅 I know you don't like "best friends"…
             </p>
             <p>
               Happy birthday my dear friend 🤍
@@ -276,12 +276,12 @@ const Index = () => {
         >
           <p>I hope you always find reasons to smile, even on tough days ✨</p>
           <p>You deserve good things, always.</p>
-          <p>Your simplicity is something really special 🙏</p>
+          <p>Your simplicity is something really special 😇</p>
           <p>Just a reminder that I'm always here if you ever need anything.</p>
           <p className="font-medium text-foreground/90 pt-2">
             And whatever you may call me,
             <br />
-            you are my best friend 💖💎
+            you are my best friend 💖🫶💎
           </p>
         </div>
 
