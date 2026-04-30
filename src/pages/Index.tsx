@@ -8,7 +8,7 @@ const floatingItems = Array.from({ length: 45 }, (_, i) => ({
   id: i,
   emoji: ["💖", "✨", "🤍", "🎂", "🎈", "🎉"][i % 6],
   left: `${Math.random() * 100}%`,
-  delay: `${Math.random() * 10}s`,
+  delay: `-${Math.random() * 5}s`, // This forces them to start instantly!
   duration: `${8 + Math.random() * 12}s`,
   size: `${0.7 + Math.random() * 1.3}rem`,
 }));
